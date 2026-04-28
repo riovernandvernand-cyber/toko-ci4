@@ -5,6 +5,6 @@ Project CodeIgniter 4:
 - Auth Filter
 - Halaman Produk & Keranjang
 
-Login:
-username: april  
-password: 123
+## Login
+- Username: april  
+- Password: 123
